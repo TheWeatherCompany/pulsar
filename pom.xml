@@ -97,7 +97,7 @@ flexible messaging model and an intuitive client API.</description>
 
     <netty.version>4.0.40.Final</netty.version>
     <storm.version>0.9.5</storm.version>
-    <jetty.version>9.3.11.v20160721</jetty.version>
+    <jetty.version>9.4.33.v20201020</jetty.version>
 
   </properties>
 
